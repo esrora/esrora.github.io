@@ -1,0 +1,14 @@
+site_name: Servicios en Red
+docs_dir: 'md'
+site_dir: 'docs'
+theme: material
+nav:
+  - Inicio: index.md
+  - Tema 6 Servicio FTP:
+    - Parte 1 Introducción: tema61.md
+    - Parte 2 Modos de conexión: tema62.md
+    - Parte 3 Comandos y Usuarios: tema63.md
+    - Parte 4 Práctica: tema64.md
+  - Sobre mi: about.md
+markdown_extensions:
+  - admonition
